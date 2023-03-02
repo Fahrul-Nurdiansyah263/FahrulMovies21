@@ -1,0 +1,42 @@
+.myBG {
+    height: 50px;
+    background: black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    
+}
+
+.intro {
+    height: 350px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    
+}
+
+.trending {
+    height: auto;
+}
+
+.movieWrapper{
+    height: auto;
+}
+
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images {
+    height: 500px;
+}
