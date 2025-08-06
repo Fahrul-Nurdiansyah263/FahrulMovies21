@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FahrulMovies21/static/css/main.9b2d66c7.css",
+    "main.js": "/FahrulMovies21/static/js/main.c591d82c.js",
+    "static/js/787.47a7c37f.chunk.js": "/FahrulMovies21/static/js/787.47a7c37f.chunk.js",
+    "static/media/tr2.jpg": "/FahrulMovies21/static/media/tr2.d796793ffb117ab38a61.jpg",
+    "static/media/tr3.jpg": "/FahrulMovies21/static/media/tr3.73edb75f3d1bf1109c58.jpg",
+    "static/media/sts1.jpg": "/FahrulMovies21/static/media/sts1.9c5e511a33510c735db2.jpg",
+    "static/media/sg1.jpg": "/FahrulMovies21/static/media/sg1.63e31d86b29007b32d8b.jpg",
+    "static/media/rm.jpg": "/FahrulMovies21/static/media/rm.4bf32692fe8c07dd69b2.jpg",
+    "static/media/tnc.jpg": "/FahrulMovies21/static/media/tnc.cfd0f847fcf7c19c498e.jpg",
+    "static/media/tr1.jpg": "/FahrulMovies21/static/media/tr1.48960073d8ef19847128.jpg",
+    "static/media/sgs2.jpg": "/FahrulMovies21/static/media/sgs2.3b80efcc22cc740a4109.jpg",
+    "static/media/joker.jpg": "/FahrulMovies21/static/media/joker.f55fbcb6f4d6c0b7cea5.jpg",
+    "static/media/p.jpg": "/FahrulMovies21/static/media/p.9e431092fb1f507a3698.jpg",
+    "index.html": "/FahrulMovies21/index.html",
+    "main.9b2d66c7.css.map": "/FahrulMovies21/static/css/main.9b2d66c7.css.map",
+    "main.c591d82c.js.map": "/FahrulMovies21/static/js/main.c591d82c.js.map",
+    "787.47a7c37f.chunk.js.map": "/FahrulMovies21/static/js/787.47a7c37f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b2d66c7.css",
+    "static/js/main.c591d82c.js"
+  ]
+}
